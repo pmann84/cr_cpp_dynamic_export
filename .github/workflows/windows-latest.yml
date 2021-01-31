@@ -1,4 +1,4 @@
-name: Build and Run Tests - Latest
+name: Windows Build
 
 on: [push]
 
